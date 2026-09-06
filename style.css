@@ -312,28 +312,28 @@ section {
 /* Replace each thumb background with a screenshot: <img src="..."> inside .thumb */
 .thumb.c1 {
   background: #E7EFEC;
-  background-image: url(./images/link-in-bio.png);
+  background-image: url("./Images/link-in-bio.png");
   background-position: cover;
   background-size: 100%;
 }
 
 .thumb.c2 {
   background-color: #F1E7DA;
-  background-image: url(./images/recipe-page.png);
+  background-image: url("./Images/recipe-page.png");
   background-position: cover;
   background-size: 100%;
 }
 
 .thumb.c3 {
   background: #EAE6F1;
-  background-image: url(./images/preview-card.png);
+  background-image: url("./Images/preview-card.png");
   background-position: cover;
   background-size: 100%;
 }
 
 .thumb.c4 {
   background: #EFE7E7;
-  background-image: url(./images/product-review-card.jpg);
+  background-image: url("./Images/product-review-card.jpg");
   background-position: center;
   background-size: auto 100%;
   background-repeat:no-repeat;
