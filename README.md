@@ -1,2 +1,3 @@
-# My-Portfolio
-My portfolio page
+# My Very Own Portfolio Page
+
+Showcasing projects I've done so far
